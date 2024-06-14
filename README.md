@@ -1,1 +1,2 @@
-# m-recipies
+# m-recipies   
+This a introductory project which is all about recipies that i like  skills or tolls that i m gonna be implemeting is git basics and html p, a, h1 ,h2 ,strong  , em ,ul,li ,ol ,li , img tags .   
